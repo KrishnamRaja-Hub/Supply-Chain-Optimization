@@ -51,7 +51,7 @@ The notebook covers the following areas of analysis:
 Based on the analysis, several key findings and recommendations are presented in the notebook's conclusion. These include insights into customer behavior, product performance, geographic trends, and factors influencing delivery times, along with actionable recommendations to improve supply chain operations and reduce late deliveries.
 
 ## How to Run the Notebook
-
+Google Colab Link: https://colab.research.google.com/drive/1mBqkNOUm0lb7cjWIHQafLnIQV_4m2ewc?usp=sharing
 1. Upload the `DataCoSupplyChainDataset.csv` file to your Google Colab environment.
 2. Run each code cell sequentially to execute the analysis and modeling steps.
 3. Explore the generated plots and printed outputs for insights.
